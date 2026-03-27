@@ -1,6 +1,6 @@
 # Backend Developer Career Path
 
-## [Python & Go](https://www.boot.dev/tracks/backend-python-golang)
+## [Python & Go](https://www.boot.dev/paths/backend?tech=python-golang)
 
 | Course Name                          | Links                                                                                        |
 | ------------------------------------ | -------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
-## [Python & TypeScript](https://www.boot.dev/tracks/backend-python-typescript)
+## [Python & TypeScript](https://www.boot.dev/paths/backend?tech=python-typescript)
 
 | Course Name                          | Links                                                                                                    |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |

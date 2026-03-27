@@ -10,7 +10,7 @@ _wip/planned_
 | Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
 | Build a Bookbot                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                     |
 | Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                   |
-| Learn Spreadsheets                   | Google Sheets                                                                   |
+| Learn Spreadsheets                   | Excel                                                                           |
 | Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                   |
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                   |
@@ -19,7 +19,7 @@ _wip/planned_
 | Learn HTTP Clients                   | [Python](https://www.boot.dev/courses/learn-http-clients-python)                |
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
 | Learn Data Manipulation              | Python + Pandas + NumPy                                                         |
-| Learn Data Visualization and BI      | Power BI + Big Query                                                            |
+| Learn Data Visualization and BI      | [Power BI](https://www.boot.dev/courses/learn-data-visualization-power-bi)      |
 | Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)     |
 | Learn AI Coding                      | Python + OpenCode                                                               |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
