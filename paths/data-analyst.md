@@ -18,7 +18,7 @@ _wip/planned_
 | Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                    |
 | Learn HTTP Clients                   | [Python](https://www.boot.dev/courses/learn-http-clients-python)                |
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
-| Learn Data Manipulation              | Python + Pandas + NumPy                                                         |
+| Learn Pandas                         | Python + Pandas                                                                 |
 | Learn Data Visualization and BI      | [Power BI](https://www.boot.dev/courses/learn-data-visualization-power-bi)      |
 | Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)     |
 | Learn AI Coding                      | Python + OpenCode                                                               |
