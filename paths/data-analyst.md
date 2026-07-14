@@ -1,8 +1,6 @@
 # Data Analyst Career Path
 
-## Python & SQL
-
-_wip/planned_
+## [Python & SQL](https://www.boot.dev/paths/data-analyst?tech=python)
 
 | Course Name                          | Option Link                                                                     |
 | ------------------------------------ | ------------------------------------------------------------------------------- |
@@ -18,7 +16,7 @@ _wip/planned_
 | Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                    |
 | Learn HTTP Clients                   | [Python](https://www.boot.dev/courses/learn-http-clients-python)                |
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
-| Learn Pandas                         | Python + Pandas                                                                 |
+| Learn Pandas                         | [Python + Pandas + Polars](https://www.boot.dev/courses/learn-pandas)           |
 | Learn Data Visualization and BI      | [Power BI](https://www.boot.dev/courses/learn-data-visualization-power-bi)      |
 | Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)     |
 | Learn AI Coding                      | Python + OpenCode                                                               |
