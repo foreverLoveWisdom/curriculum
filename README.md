@@ -12,18 +12,18 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 
 _Learning paths are made up of a series of courses_.
 
-- [Backend Developer Curriculum](paths/backend.md)
+- [Backend Developer Roadmap](paths/backend.md)
   - [Python & Go Path on Boot.dev](https://www.boot.dev/paths/backend?tech=python-golang)
   - [Python & TypeScript Path on Boot.dev](https://www.boot.dev/paths/backend?tech=python-typescript)
-- [Data Analyst Career Path (wip/planned)](paths/data-analyst.md)
-  - Python & SQL
-- [DevOps Curriculum](paths/devops.md)
+- [Data Analyst Roadmap](paths/data-analyst.md)
+  - [Python & SQL](https://www.boot.dev/paths/data-analyst?tech=python)
+- [DevOps Roadmap](paths/devops.md)
   - [Python & Go Path on Boot.dev](https://www.boot.dev/paths/devops?tech=python-golang)
-- [Data Engineer Career Path (wip/planned)](paths/data-engineer.md)
+- [Data Engineer Roadmap (wip/planned)](paths/data-engineer.md)
   - Python & Go
-- [Fullstack Developer Career Path (wip/planned)](paths/fullstack.md)
+- [Fullstack Developer Roadmap (wip/planned)](paths/fullstack.md)
   - Python & TypeScript
-- [Computer Science Learning Path (wip/planned)](paths/computer-science.md)
+- [Computer Science Roadmap (wip/planned)](paths/computer-science.md)
   - Python & Go
 
 ## Becoming an author
